@@ -12,14 +12,24 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0202-happy-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0088-merge-sorted-array) |
+| [0202-happy-number](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0088-merge-sorted-array) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0202-happy-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
