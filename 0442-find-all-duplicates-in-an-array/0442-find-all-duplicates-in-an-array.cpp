@@ -4,7 +4,7 @@ public:
         unordered_set<int>dup;
         vector<int>ans;
         for(auto x : nums){
-            if(dup.find(x) != dup.end()) ans.push_back(x);
+            if(dup.count(x)) ans.push_back(x);
             dup.insert(x); 
         }
         return ans;
