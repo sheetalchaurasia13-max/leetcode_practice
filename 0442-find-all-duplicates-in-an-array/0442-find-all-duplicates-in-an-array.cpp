@@ -1,8 +1,3 @@
-static const auto s = [](){
-    std::ios_base::sync_with_stdio(false);
-    std::cin.tie(NULL);
-    return 0 ; 
-}();
 class Solution {
 public:
     vector<int> findDuplicates(vector<int>& nums) {
