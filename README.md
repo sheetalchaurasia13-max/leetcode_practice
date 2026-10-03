@@ -10,6 +10,7 @@
 | [0283-move-zeroes](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/1512-number-of-good-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -21,6 +22,7 @@
 | [0242-valid-anagram](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/1512-number-of-good-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -39,6 +41,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0202-happy-number) |
+| [1512-number-of-good-pairs](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/1512-number-of-good-pairs) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -57,6 +60,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0169-majority-element) |
+| [1512-number-of-good-pairs](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/1512-number-of-good-pairs) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
