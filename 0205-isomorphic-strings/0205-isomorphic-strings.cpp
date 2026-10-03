@@ -3,7 +3,7 @@ public:
     bool isIsomorphic(string s, string t) {
         unordered_map<char , char> a , b;
         for(auto i = 0 ; i<s.size() ; i++){
-            int x = s[i] , y = t[i];
+           char x = s[i] , y = t[i];
             if(a.count(x) && a[x] != y) return false;
             if(b.count(y) && b[y]  != x) return false ;
             a[x] = y;
