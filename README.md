@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0283-move-zeroes) |
@@ -65,4 +66,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0169-majority-element) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
