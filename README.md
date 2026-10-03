@@ -12,6 +12,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/1512-number-of-good-pairs) |
+| [2553-separate-the-digits-in-an-array](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/2553-separate-the-digits-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -70,4 +71,8 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0035-search-insert-position) |
+## Simulation
+|  |
+| ------- |
+| [2553-separate-the-digits-in-an-array](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/2553-separate-the-digits-in-an-array) |
 <!---LeetCode Topics End-->
