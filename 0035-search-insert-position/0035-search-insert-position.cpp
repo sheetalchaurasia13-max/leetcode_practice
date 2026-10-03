@@ -1,6 +1,14 @@
 class Solution {
 public:
     int searchInsert(vector<int>& nums, int target) {
+        auto it = lower_bound(nums.begin() , nums.end() , target) - nums.begin();
+        return it;
+    }
+};
+
+/* class Solution {
+public:
+    int searchInsert(vector<int>& nums, int target) {
         int left = 0, right = nums.size() - 1;
 
         while (left <= right) {
@@ -18,4 +26,4 @@ public:
         // If not found, left is the correct insert position
         return left;
     }
-};
+};*/
