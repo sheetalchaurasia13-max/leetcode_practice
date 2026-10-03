@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -32,6 +33,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0202-happy-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -40,5 +42,6 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
