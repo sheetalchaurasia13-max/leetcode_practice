@@ -4,8 +4,7 @@ public:
         int count = 0 ;
         unordered_map<int,int> ans;
         for(int x : nums){            
-            if(ans.count(x)) count += ans[x];
-            ans[x]++;
+            count += ans[x]++;
         }
         return count;
     }
