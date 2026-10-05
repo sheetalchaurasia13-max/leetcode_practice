@@ -1,6 +1,24 @@
 class Solution {
 public:
     int scoreOfParentheses(string s) {
+        int depth = 0 , ans = 0;
+        for(int i = 0 ; i<s.size(); i++){
+            if(s[i] == '(') depth++;
+            else{
+                depth--;
+                if(s[i-1] == '(')
+                ans += 1<<(depth); // d = 1 == 
+
+            }
+        }
+        return ans;
+    }
+};
+
+/*
+class Solution {
+public:
+    int scoreOfParentheses(string s) {
         stack<int>st;
         st.push(0);
         for(auto c : s){
@@ -13,4 +31,4 @@ public:
         }
         return st.top();
     }
-};
+};*/
