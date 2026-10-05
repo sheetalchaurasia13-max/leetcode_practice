@@ -69,6 +69,7 @@
 | [0539-minimum-time-difference](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0539-minimum-time-difference) |
 | [0678-valid-parenthesis-string](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0692-top-k-frequent-words) |
+| [0856-score-of-parentheses](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0856-score-of-parentheses) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -122,6 +123,7 @@
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0856-score-of-parentheses) |
 ## Greedy
 |  |
 | ------- |
@@ -130,4 +132,5 @@
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
