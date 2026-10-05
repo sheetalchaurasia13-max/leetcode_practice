@@ -10,6 +10,7 @@
 | [0169-majority-element](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0347-top-k-frequent-elements) |
+| [0414-third-maximum-number](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0539-minimum-time-difference) |
@@ -44,6 +45,7 @@
 | [0169-majority-element](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0347-top-k-frequent-elements) |
+| [0414-third-maximum-number](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0451-sort-characters-by-frequency) |
 | [0539-minimum-time-difference](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0539-minimum-time-difference) |
