@@ -38,6 +38,7 @@
 | [0088-merge-sorted-array](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0283-move-zeroes) |
+| [0844-backspace-string-compare](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0844-backspace-string-compare) |
 ## Sorting
 |  |
 | ------- |
@@ -72,6 +73,7 @@
 | [0539-minimum-time-difference](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0539-minimum-time-difference) |
 | [0678-valid-parenthesis-string](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0692-top-k-frequent-words) |
+| [0844-backspace-string-compare](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Divide and Conquer
@@ -98,6 +100,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0844-backspace-string-compare) |
 | [2553-separate-the-digits-in-an-array](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/2553-separate-the-digits-in-an-array) |
 ## Trie
 |  |
@@ -128,6 +131,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0678-valid-parenthesis-string) |
+| [0844-backspace-string-compare](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Greedy
