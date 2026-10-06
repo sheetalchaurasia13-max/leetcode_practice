@@ -14,18 +14,6 @@ public:
             else if(c != '#')t1.push(c);
         } 
         
-        // compare 
-        if(s1.size() != t1.size()) return false;
-        else if(s1.empty() && t1.empty()) return  true;
-        else{
-            while(!s1.empty()){
-                if(s1.top() != t1.top()) return false;
-                else{
-                    s1.pop();
-                  t1.pop();
-                }
-            }
-            return true;
-        }        
+      return s1==t1;       
     }
 };
