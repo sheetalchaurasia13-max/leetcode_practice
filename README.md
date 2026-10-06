@@ -65,6 +65,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0020-valid-parentheses) |
 | [0205-isomorphic-strings](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0451-sort-characters-by-frequency) |
@@ -125,6 +126,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -136,6 +138,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
