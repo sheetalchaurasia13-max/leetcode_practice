@@ -71,6 +71,7 @@
 | [0020-valid-parentheses](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0020-valid-parentheses) |
 | [0205-isomorphic-strings](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0301-remove-invalid-parentheses) |
 | [0451-sort-characters-by-frequency](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0451-sort-characters-by-frequency) |
 | [0539-minimum-time-difference](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0539-minimum-time-difference) |
 | [0678-valid-parenthesis-string](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0678-valid-parenthesis-string) |
@@ -154,4 +155,12 @@
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0724-find-pivot-index) |
+## Backtracking
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0301-remove-invalid-parentheses) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
