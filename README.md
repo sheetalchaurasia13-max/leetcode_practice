@@ -16,6 +16,7 @@
 | [0539-minimum-time-difference](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0539-minimum-time-difference) |
 | [0692-top-k-frequent-words](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0692-top-k-frequent-words) |
 | [1512-number-of-good-pairs](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/1512-number-of-good-pairs) |
+| [1598-crawler-log-folder](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/1598-crawler-log-folder) |
 | [2553-separate-the-digits-in-an-array](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/2553-separate-the-digits-in-an-array) |
 ## Hash Table
 |  |
@@ -76,6 +77,7 @@
 | [0844-backspace-string-compare](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1598-crawler-log-folder](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/1598-crawler-log-folder) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -134,6 +136,7 @@
 | [0844-backspace-string-compare](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1598-crawler-log-folder](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/1598-crawler-log-folder) |
 ## Greedy
 |  |
 | ------- |
