@@ -62,6 +62,7 @@
 | [0202-happy-number](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0202-happy-number) |
 | [0539-minimum-time-difference](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0539-minimum-time-difference) |
 | [1512-number-of-good-pairs](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/1512-number-of-good-pairs) |
+| [2409-count-days-spent-together](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/2409-count-days-spent-together) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -86,6 +87,7 @@
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1598-crawler-log-folder](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/1598-crawler-log-folder) |
+| [2409-count-days-spent-together](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/2409-count-days-spent-together) |
 ## Divide and Conquer
 |  |
 | ------- |
