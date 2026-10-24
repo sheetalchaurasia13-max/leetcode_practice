@@ -9,6 +9,7 @@
 | [0088-merge-sorted-array](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0283-move-zeroes) |
+| [0334-increasing-triplet-subsequence](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -153,6 +154,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0334-increasing-triplet-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -194,4 +196,8 @@
 |  |
 | ------- |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/3644-maximum-k-to-sort-a-permutation) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
