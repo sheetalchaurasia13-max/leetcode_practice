@@ -17,6 +17,7 @@
 | [0539-minimum-time-difference](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0539-minimum-time-difference) |
 | [0692-top-k-frequent-words](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0692-top-k-frequent-words) |
 | [0724-find-pivot-index](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0724-find-pivot-index) |
+| [1254-number-of-closed-islands](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/1254-number-of-closed-islands) |
 | [1512-number-of-good-pairs](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/1512-number-of-good-pairs) |
 | [1598-crawler-log-folder](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/1598-crawler-log-folder) |
 | [2553-separate-the-digits-in-an-array](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/2553-separate-the-digits-in-an-array) |
@@ -180,6 +181,7 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0301-remove-invalid-parentheses](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0301-remove-invalid-parentheses) |
+| [1254-number-of-closed-islands](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/1254-number-of-closed-islands) |
 ## Sliding Window
 |  |
 | ------- |
@@ -200,4 +202,16 @@
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0334-increasing-triplet-subsequence) |
+## Depth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/1254-number-of-closed-islands) |
+## Union-Find
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/1254-number-of-closed-islands) |
+## Matrix
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
