@@ -7,7 +7,7 @@ public:
 
         int m = nums[n/2];
         int s = 0 ; 
-        for(int num : nums){
+        for(auto num : nums){
             s += abs(num - m);
         }
         return s;
