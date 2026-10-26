@@ -22,6 +22,7 @@
 | [1512-number-of-good-pairs](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/1512-number-of-good-pairs) |
 | [1598-crawler-log-folder](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/1598-crawler-log-folder) |
 | [2553-separate-the-digits-in-an-array](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/2553-separate-the-digits-in-an-array) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Hash Table
 |  |
@@ -185,6 +186,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0301-remove-invalid-parentheses](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0301-remove-invalid-parentheses) |
 | [1254-number-of-closed-islands](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Sliding Window
 |  |
 | ------- |
@@ -209,12 +211,15 @@
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 <!---LeetCode Topics End-->
