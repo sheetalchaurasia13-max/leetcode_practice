@@ -222,4 +222,16 @@
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Design
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0933-number-of-recent-calls) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
