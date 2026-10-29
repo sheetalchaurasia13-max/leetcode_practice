@@ -24,6 +24,7 @@
 | [2553-separate-the-digits-in-an-array](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/2553-separate-the-digits-in-an-array) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Hash Table
 |  |
@@ -95,11 +96,13 @@
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1598-crawler-log-folder](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/1598-crawler-log-folder) |
 | [2409-count-days-spent-together](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/2409-count-days-spent-together) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0347-top-k-frequent-elements) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Counting
 |  |
 | ------- |
@@ -197,6 +200,7 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0102-binary-tree-level-order-traversal) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -205,6 +209,7 @@
 |  |
 | ------- |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Longest Increasing Subsequence
 |  |
@@ -215,6 +220,7 @@
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Union-Find
 |  |
 | ------- |
@@ -238,4 +244,12 @@
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0933-number-of-recent-calls) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Segment Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 <!---LeetCode Topics End-->
