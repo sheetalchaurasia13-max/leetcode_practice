@@ -99,6 +99,7 @@
 | [1598-crawler-log-folder](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/1598-crawler-log-folder) |
 | [2409-count-days-spent-together](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/2409-count-days-spent-together) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -136,6 +137,7 @@
 | [0347-top-k-frequent-elements](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0692-top-k-frequent-words) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -255,4 +257,12 @@
 |  |
 | ------- |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Graph Theory
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Shortest Path
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->
