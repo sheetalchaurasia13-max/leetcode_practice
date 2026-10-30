@@ -67,6 +67,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0202-happy-number) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0539-minimum-time-difference](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0539-minimum-time-difference) |
 | [1512-number-of-good-pairs](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/1512-number-of-good-pairs) |
@@ -84,6 +85,7 @@
 | [0205-isomorphic-strings](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0301-remove-invalid-parentheses) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0451-sort-characters-by-frequency](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0451-sort-characters-by-frequency) |
 | [0539-minimum-time-difference](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0539-minimum-time-difference) |
 | [0678-valid-parenthesis-string](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0678-valid-parenthesis-string) |
@@ -208,6 +210,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/3882-minimum-xor-path-in-a-grid) |
