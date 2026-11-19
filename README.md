@@ -22,6 +22,7 @@
 | [1512-number-of-good-pairs](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/1512-number-of-good-pairs) |
 | [1598-crawler-log-folder](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/1598-crawler-log-folder) |
 | [2553-separate-the-digits-in-an-array](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/2553-separate-the-digits-in-an-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3665-twisted-mirror-path-count](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/3665-twisted-mirror-path-count) |
@@ -63,6 +64,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0539-minimum-time-difference](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0539-minimum-time-difference) |
 | [0692-top-k-frequent-words](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0692-top-k-frequent-words) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Math
 |  |
 | ------- |
@@ -174,6 +176,7 @@
 | [0678-valid-parenthesis-string](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Bracket Sequences
 |  |
 | ------- |
