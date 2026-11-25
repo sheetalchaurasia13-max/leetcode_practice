@@ -29,6 +29,7 @@
 | [3665-twisted-mirror-path-count](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/3665-twisted-mirror-path-count) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/3882-minimum-xor-path-in-a-grid) |
+| [3934-smallest-unique-subarray](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/3934-smallest-unique-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,6 +46,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0692-top-k-frequent-words) |
 | [1512-number-of-good-pairs](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/1512-number-of-good-pairs) |
+| [3934-smallest-unique-subarray](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/3934-smallest-unique-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -129,6 +131,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0035-search-insert-position) |
 | [0287-find-the-duplicate-number](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0287-find-the-duplicate-number) |
+| [3934-smallest-unique-subarray](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/3934-smallest-unique-subarray) |
 ## Simulation
 |  |
 | ------- |
@@ -280,4 +283,16 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0287-find-the-duplicate-number) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
