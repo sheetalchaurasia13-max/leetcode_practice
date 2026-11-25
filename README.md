@@ -9,6 +9,7 @@
 | [0088-merge-sorted-array](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0414-third-maximum-number) |
@@ -50,6 +51,7 @@
 | [0088-merge-sorted-array](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0287-find-the-duplicate-number) |
 | [0844-backspace-string-compare](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0844-backspace-string-compare) |
 ## Sorting
 |  |
@@ -79,6 +81,7 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0287-find-the-duplicate-number) |
 ## String
 |  |
 | ------- |
@@ -125,6 +128,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0035-search-insert-position) |
+| [0287-find-the-duplicate-number](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0287-find-the-duplicate-number) |
 ## Simulation
 |  |
 | ------- |
@@ -217,6 +221,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0287-find-the-duplicate-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -271,4 +276,8 @@
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
