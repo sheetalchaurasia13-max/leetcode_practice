@@ -1,9 +1,7 @@
 class Solution {
 public:
     int findDuplicate(vector<int>& nums) {
-        
-        int n = nums.size(); //5 
-
+   
         for(auto x : nums){
             int indx = abs(x)-1 ; // index  == element-1 ; (here only )
 
