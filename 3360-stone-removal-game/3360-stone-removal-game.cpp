@@ -1,16 +1,24 @@
 class Solution {
 public:
     bool canAliceWin(int n) {
-          
-          for(int stone = 10 ; stone >=0 ; stone--){
 
-            if(stone > n){
-                return stone%2 == 1 ; // false 
-            }
-            else {
-                n -= stone; 
-            }
-          }
-          return false;
+        bool alice = true;
+        
+        for(int i = 10 ; i>=0 ; i = i-2){
+
+            if(n < i ) {
+                alice = false ; // alice fail ;
+                break;
+            } 
+            
+            n -= i ; 
+
+            if( n < (i-1)) return true ; // bob fails
+
+            n -= (i-1);
+            
+        }
+    return alice ;
+        
     }
 };
