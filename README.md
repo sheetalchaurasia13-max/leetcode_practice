@@ -79,6 +79,7 @@
 | [0539-minimum-time-difference](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0539-minimum-time-difference) |
 | [1512-number-of-good-pairs](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/1512-number-of-good-pairs) |
 | [2409-count-days-spent-together](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/2409-count-days-spent-together) |
+| [3360-stone-removal-game](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/3360-stone-removal-game) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -137,6 +138,7 @@
 | ------- |
 | [0844-backspace-string-compare](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0844-backspace-string-compare) |
 | [2553-separate-the-digits-in-an-array](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/2553-separate-the-digits-in-an-array) |
+| [3360-stone-removal-game](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/3360-stone-removal-game) |
 ## Trie
 |  |
 | ------- |
