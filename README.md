@@ -10,6 +10,7 @@
 | [0169-majority-element](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0287-find-the-duplicate-number) |
+| [0330-patching-array](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0330-patching-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0414-third-maximum-number) |
@@ -181,6 +182,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0330-patching-array](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0330-patching-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0334-increasing-triplet-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sheetalchaurasia13-max/leetcode_practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
