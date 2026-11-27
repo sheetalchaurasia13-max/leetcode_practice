@@ -3,7 +3,7 @@ public:
     int minPatches(vector<int>& nums, int n) {
         long long maxReach = 0;
         int patches = 0;
-        size_t i = 0;
+        int i = 0;
 
         while (maxReach < n) {
             if (i < nums.size() && nums[i] <= maxReach + 1) {
